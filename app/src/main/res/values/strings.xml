@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Submission</string>
+    <string name="banner">banner</string>
+    <string name="judul_artikel">10 Bahasa Pemrograman Terpopuler di tahun 2020</string>
+    <string name="desc1">Bahasa pemrograman adalah kumpulan sintaks yang berfungsi untuk memerintahkan perangkat lunak pada komputer. Perkembangan teknologi pada saat ini mendorong banyak orang untuk mempelajari berbagai jenis bahasa pemrograman.</string>
+    <string name="detail_name">1. Python</string>
+    <string name="est_langNumJobs">Estimasi Jumlah Pekerjaan:</string>
+    <string name="detail_langNumJobs">19,000</string>
+    <string name="avgAnnualSalary">Rata - rata gaji tahunan:</string>
+    <string name="detail_avgAnnualSalary">$120,000</string>
+    <string name="detail_example">Python is widely regarded as a programming language that’s easy to learn, due to its simple syntax, a large library of standards and toolkits, and integration with other popular programming languages such as C and C++. In fact, it’s the first language that students learn in the Align program, Gorton says. “You can cover a lot of computer science concepts quickly, and it’s relatively easy to build on.” It is a popular programming language, especially among startups, and therefore Python skills are in high demand."</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="my_name">Indratama Pangasian Manalu</string>
+    <string name="my_email">ian.indratama5@gmail.com</string>
+    <string name="content_article">Content Article:</string>
+    <string name="content_article_1"><a href="https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/">Content 1</a></string>
+    <string name="splash_screen">Splash Screen:</string>
+    <string name="splash_screen_1"><a href="https://www.dicoding.com/blog/tips-membuat-splash-screen-android/">Reference 1</a></string>
+    <string name="splash_screen_2"><a href="https://bignerdranch.com/blog/splash-screens-the-right-way/">Reference 2</a></string>
+    <string name="references">References</string>
+    <string name="my_favourites">My Favourites</string>
+    <string name="no_favs_data">Belum ada Bahasa Pemrograman favorit yang dipilih</string>
+    <string name="passing_pojo_in_intent">Passing POJO in Intent:</string>
+    <string name="passing_pojo_in_intent_1"><a href="https://stackoverflow.com/questions/47593205/how-to-pass-custom-object-via-intent-in-kotlin">Reference 1</a></string>
+    <string name="hyperlink_textview">Hyperlink Textview:</string>
+    <string name="hyperlink_textview_1"><a href="https://learntodroid.com/how-to-create-a-hyperlink-using-android-textview/">Reference 1</a></string>
+    <string name="hyperlink_textview_2"><a href="https://stackoverflow.com/questions/8448390/how-to-remove-underline-from-hyperlinks-text-in-android/23143849">Reference 2</a></string>
+    <string name="recyclerview">RecyclerView:</string>
+    <string name="recyclerview_1"><a href="https://stackoverflow.com/a/48049142/10437091">Reference 1</a></string>
+    <string name="recyclerview_2"><a href="https://github.com/wasabeef/recyclerview-animators">Reference 2</a></string>
+    <string name="sqlite_in_android">SQLite in Android:</string>
+    <string name="sqlite_in_android_1"><a href="https://developer.android.com/training/data-storage/sqlite">Reference 1</a></string>
+    <string name="nestedscrollview">NestedScrollView:</string>
+    <string name="nestedscrollview_1"><a href="https://stackoverflow.com/questions/27083091/recyclerview-inside-scrollview-is-not-working">Reference 1</a></string>
+
+</resources>
