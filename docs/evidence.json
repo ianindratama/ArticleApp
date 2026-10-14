@@ -1,0 +1,37 @@
+{
+  "repository": "https://github.com/ianindratama/ArticleApp",
+  "commit": "0f7c386956cb6c32ef847627ec9aa3aa6fb82624",
+  "branch": "master",
+  "visualType": "source reconstruction",
+  "uiSources": [
+    "app/src/main/res/layout/activity_main.xml",
+    "app/src/main/res/layout/activity_detail.xml",
+    "app/src/main/res/layout/activity_favourites.xml",
+    "app/src/main/res/layout/item_row_language.xml",
+    "app/src/main/res/layout/item_row_favslanguage.xml",
+    "app/src/main/res/values/strings.xml",
+    "app/src/main/res/values/colors.xml",
+    "app/src/main/res/values/themes.xml",
+    "app/src/main/java/com/example/submission/LanguageData.kt"
+  ],
+  "mechanismSources": [
+    "app/src/main/java/com/example/submission/MainActivity.kt",
+    "app/src/main/java/com/example/submission/DetailActivity.kt",
+    "app/src/main/java/com/example/submission/FavouritesActivity.kt",
+    "app/src/main/java/com/example/submission/FeedReaderDbHelper.kt",
+    "app/src/main/java/com/example/submission/Language.kt",
+    "app/src/main/java/com/example/submission/LanguageData.kt"
+  ],
+  "limitations": [
+    "Android build and execution were not performed.",
+    "Original build uses Gradle 6.7.1, AGP 4.2.0, and jcenter(); dependency resolution was not verified.",
+    "Employment/salary/ranking data are bundled historical article content, not current statistics.",
+    "The reconstructed favourite Python state is illustrative local data, not recovered user history.",
+    "No LICENSE/NOTICE file is present; artwork reuse terms are not recorded."
+  ],
+  "attribution": [
+    "App strings credit the Northeastern programming-languages article and several Android implementation resources.",
+    "Course/starter attribution and the exact personal contribution are unconfirmed.",
+    "The browser reconstruction uses Android-default Roboto from GithubClone/app/src/main/res/font; the original app declares a system sans-serif rather than bundling these font files."
+  ]
+}
